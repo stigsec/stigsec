@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm stigs <br>
-I make cryptography and hacking tools in python and rust.
+I make cryptography and pentesting tools in python and rust.
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
